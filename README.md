@@ -75,7 +75,7 @@ Notes:
 1) Initialize ReactJS project.
 2) npm run build for production deploy
 3) Deploy finished project on Firebase with firebase init (need to login). 
-link: https://tiktok-clone1.web.app/
+link: https://whatsapp-clone-4e464.web.app
 
 Bugs:
 1) Video still play after scroll
@@ -108,5 +108,7 @@ Others (api, libary, framework):
 npm install react-router-dom
 
 2) React Context API
-3) Google Authentication
-4) Dicebar avatar API
+
+3) Google Authentication 
+
+4) Dicebar avatar API (For avatar source)
