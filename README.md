@@ -97,7 +97,7 @@ n/a
 Server Hosting:
 1) Firebase (configure in firebase.js)
 npm install firebase 
-firebase init (public folder name "build")
+firebase init (public folder name "build", after finish run npm build)
 firebase deploy
 
 Database:
