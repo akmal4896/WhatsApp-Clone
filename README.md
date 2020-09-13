@@ -12,7 +12,7 @@ Simple WhatsApp (Room) clone web app.
 
 ***
 
-##Client:
+## Client:
 1. ReactJS (Frontend library)
 - npx create-react-app myAppName
 - npm run build
